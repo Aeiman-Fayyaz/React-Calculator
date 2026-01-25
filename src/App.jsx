@@ -107,7 +107,7 @@ export default function Calculator() {
                 Quick<span className="text-[#DD88CF]">Calc</span>
               </h1>
               <p className="text-2xl font-light text-gray-300 mb-8">
-                Premium Scientific Calculator
+                Premium Simple Calculator
               </p>
 
               <div className="mb-10">
